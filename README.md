@@ -1,17 +1,18 @@
 # XR Accessibility Sample
 
-The project contains numerous frameworks for a out the box solution, developed by Unity Developer Advocate (Corrie) to support creators understanding design constraints during 3D XR Interaction design. It should help you get up and running using hand tracking for XR devices. 
+The project contains multiple XR packages pre-configured (hands, eye, VR) for a quick solution to get started with some XR Accessible design concepts. Used for demonstration and presentation purposes around "Developing Accessible XR" presentation. 
 
-This project is forked from Unity's [XR Interaction Toolkit](https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@3.1/manual/index.html) (XRI) to with additional scene content from [].
+Addition of the "Accessibility" scene sample which integrates some best practices. Supports creators understanding design constraints during 3D XR Interaction design. It should help you get up and running using hand tracking for XR devices. 
 
+This project is forked from Unity's [XR Interaction Toolkit](https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@3.1/manual/index.html) (XRI)
 
-# Additional
+Contains material that can be so
+
+# Inlcuded Packages 
 - Composition Layers
 - Accessible XR Graphic 
-- unitypackage, Sample scene with graphic, 3D interface assets
-
-- XRI Samples > Scenes
-
+- XR Hands
+- OpenXR
 
 
 # Assets
@@ -19,12 +20,12 @@ This project is forked from Unity's [XR Interaction Toolkit](https://docs.unity3
 Sample XR Kit
 - Forked v3.1.2
 
-Skybox
-- https://github.com/keijiro/UnitySkyboxShaders
-
-3D Graphic for Interaction 
+Modular 3D GUI Sample
 - https://github.com/corriedotdev/vr-modular-3d-gui
 
 Starter Assets
 - Texture for floor
 
+# Contribution
+
+Not accepting pull requests at this time. Contact corrie.green@unity3d.com for anything else.
