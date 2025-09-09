@@ -2,18 +2,15 @@
 
 The project contains multiple XR packages pre-configured (hands, eye, VR) for a quick solution to get started with some XR Accessible design concepts. Used for demonstration and presentation purposes around "Developing Accessible XR" presentation. 
 
-Addition of the "Accessibility" scene sample which integrates some best practices. Supports creators understanding design constraints during 3D XR Interaction design. It should help you get up and running using hand tracking for XR devices. 
+Addition of the "Accessibility" scene sample which integrates some best practices, supporting creators understanding design constraints during 3D XR Interaction design.
 
-This project is forked from Unity's [XR Interaction Toolkit](https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@3.1/manual/index.html) (XRI)
-
-Contains material that can be so
+This project is forked from Unity's [XR Interaction Toolkit](https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@3.1/manual/index.html) (XRI) please note this project is for demonstration purposes only and is not supported by Unity. Please visit the above fork for offical XR Interaction Toolkit support or visit the learn platofrm for more introductory material to XR development [here](https://learn.unity.com/course/introduction-to-xr-vr-ar-and-mr-foundations)
 
 # Inlcuded Packages 
 - Composition Layers
 - Accessible XR Graphic 
 - XR Hands
 - OpenXR
-
 
 # Assets
 
